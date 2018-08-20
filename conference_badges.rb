@@ -6,7 +6,7 @@ def batch_badge_creator(array)
   array = [Edsger, Ada, Charles, Alan, Grace, Linus, Matz]
   counter = 0
   "Hello, my name is #{array[0]}."
-  county += 1
-when counter = 0
+  while counter <=6
+  counter += 1
 end
 end 
